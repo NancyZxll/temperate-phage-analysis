@@ -1,4 +1,4 @@
-# In-house scirpts
+# Temperate phage analysis in-house scirpts
 * bacterial_phylogenetic_analysis
 	* extract_from_assembly_summary.v2.py: Script integrating the processes of bacterial phylogenetic analysis.
 	* core_ope: the assembly-based SNV calling pipeline created by ZheminZhou.
