@@ -14,3 +14,4 @@
 * genomic_island.cys: file for Extended Data Figure 9.
 * muliple_host.cys: file for Figure 3A.
 * virulent_factor.cys: file for Extended Data Figure 8.
+* The source code implementing our computational temperate phage detection method TemPhD is available at https://github.com/NancyZxll/temperate-phage-active-prophage-detection
