@@ -20,5 +20,5 @@
 * add_taxonomy.py: Scripts to add taxonomy to hosts.
 * antibiotic_resistance_gene.cys: file for Extended Data Figure 7.
 * genomic_island.cys: file for Extended Data Figure 9.
-* muliple_host.cys: file for Figure 3A.
+* muliple_host.cys: file for Figure 3.
 * virulent_factor.cys: file for Extended Data Figure 8.
